@@ -1,0 +1,35 @@
+body{
+    background-image: url(../image/2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: rgb(215, 222, 228);
+}
+.box{
+    background-color: rgba(227, 230, 233, 0.329);
+    padding: 20px;
+}
+.margin-top-50{
+    margin-top: 25px;
+}
+.bg_white{
+    color: rgba(255, 255, 255, 0.24);
+}
+.my_photo{
+    width:50%;
+}
+.contact_info ul{
+    list-style: none;
+    padding-left: 0%;
+}
+.contact_info ul li{
+    display: inline-block;
+    font-size: 40px;
+}
+.contact_info ul a{
+ color: rgb(211, 211, 241);
+}
+.contact_info ul a:hover{
+    color: rgb(225, 149, 228);
+}
